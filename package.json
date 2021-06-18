@@ -1,0 +1,36 @@
+{
+  "name": "quicktest",
+  "version": "1.0.1",
+  "description": "Quickly test js css html",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "open": "^8.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subZero997777/simple-jq-test.git"
+  },
+  "keywords": [
+    "light",
+    "simple",
+    "js",
+    "css",
+    "html",
+    "test",
+    "project"
+  ],
+  "author": "CB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subZero997777/simple-jq-test/issues"
+  },
+  "homepage": "https://github.com/subZero997777/simple-jq-test#readme"
+}

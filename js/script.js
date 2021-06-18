@@ -1,2 +1,2 @@
-// remove comments // to activate alert. 
+// comment out later
 alert("js is working!");
